@@ -1,6 +1,6 @@
 # Vite + React JavaScript Project Scaffold
 
-This is a simplified scaffold for a ViteJS project using **JavaScript**. To save time and focus on your development, the default content in `App.jsx`, `index.css`, and `App.css` has been deleted.
+This is a simplified scaffold for a ViteJS project using **JavaScript**. To save time and focus on your development, the default content in `App.jsx`, `index.css`, and `App.css` has been deleted. Create a public folder if needed.
 
 ## Project Structure
 
