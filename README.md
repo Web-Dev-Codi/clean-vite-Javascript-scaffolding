@@ -7,7 +7,7 @@ This is a simplified scaffold for a ViteJS project using **JavaScript**. To save
 ```
 .
 ├── public
-│   └── favicon.ico
+│   └── (empty)
 ├── src
 │   ├── App.jsx (empty)
 │   ├── main.jsx
