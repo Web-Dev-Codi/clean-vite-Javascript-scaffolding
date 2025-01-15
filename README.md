@@ -32,7 +32,7 @@ This is a simplified scaffold for a ViteJS project using **JavaScript**. To save
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Web-Dev-Codi/clean-vitejs-Javascript-project-scaffolding
    ```
 
 2. Install dependencies:
